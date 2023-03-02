@@ -1,0 +1,33 @@
+- color: fef2c0
+  description: Author 可申请锁住当前讨论
+  name: Locked
+- color: 081D09
+  description: ""
+  name: Bash
+- color: 13622C
+  description: ""
+  name: CLI
+- color: 3D32E3
+  description: ""
+  name: Fish
+- color: "740239"
+  description: ""
+  name: Ksh
+- color: 2DC48A
+  description: ""
+  name: Nushell
+- color: bfdadc
+  description: ""
+  name: PowerShell
+- color: f9d0c4
+  description: ""
+  name: Terminal App
+- color: 0052CC
+  description: ""
+  name: Windows Terminal
+- color: 15A6C3
+  description: ""
+  name: WSL
+- color: "606715"
+  description: ""
+  name: Zsh
